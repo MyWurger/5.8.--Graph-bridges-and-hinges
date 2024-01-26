@@ -1,0 +1,11 @@
+﻿  Lab3.cpp
+D:\cv\Teor_Grph_Lab3\Lab3.cpp(322,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cv\Teor_Grph_Lab3\Lab3.cpp(380,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cv\Teor_Grph_Lab3\Lab3.cpp(780,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cv\Teor_Grph_Lab3\Lab3.cpp(849,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  2 of 600 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Teor_Grph_Lab3.vcxproj -> D:\cv\Teor_Grph_Lab3\x64\Release\Teor_Grph_Lab3.exe
